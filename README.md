@@ -26,4 +26,4 @@ pytest
 
 ## ✍️ Yazar
 
-Grohk
+Grohk.
