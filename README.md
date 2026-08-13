@@ -23,7 +23,9 @@ Daha sonra testleri proje dizininin kök klasöründen şu komutla çalıştıra
 ```bash
 pytest
 ```
+## kullanılan teknolojiler:
+pytest
 
 ## ✍️ Yazar
 
-Kodland
+Kodland, Deniz
