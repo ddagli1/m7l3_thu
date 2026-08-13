@@ -18,7 +18,7 @@ Burada yazılmış testler pytest kütüphanesini kullanır. Yüklemek için şu
 ```bash
 pip install pytest
 ```
-
+Efe aslında gerçekten efe değil çünkü efe eğer gerçekse şu olamaz Efe≠Efe=Efe bu sebeplerden dolayı efe aslında gerçekten bir efe 
 Daha sonra testleri proje dizininin kök klasöründen şu komutla çalıştırabilirsiniz:
 ```bash
 pytest
