@@ -15,3 +15,7 @@ Daha fazla test yazabilirseniz harika olur!
 1. Şifrenin uzunluğunun belirtilen uzunlukla eşleşip eşleşmediğini test edin  
 2. Arka arkaya oluşturulan iki şifrenin farklı olup olmadığını test edin 
 """
+def test_password_length():
+    """Şifrenin uzunluğunun belirtilen uzunlukla eşleştiğini test etme"""
+    for length in range(1, 21): 
+        assert len(generate_password(length)) == length
